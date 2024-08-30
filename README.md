@@ -3,9 +3,9 @@
 ![Minha Foto](sua-foto.jpg)
 
 ### RPA Developer  
-📍 Diadema - SP  
-📞 (11) 95416-0412
-✉️ derickh975@gmail.com
+- [Localização📍] Diadema - SP  
+- [Celular 📞] (11) 95416-0412
+- [E-Mail ✉️] derickh975@gmail.com
 
 ---
 
@@ -13,10 +13,10 @@
 
 ### Ferramentas
 - React
-- Python
-- JavaScript
+- https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 - CSS
-- HTML
+- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 - SQL
 - C#
 
@@ -35,7 +35,7 @@
 ---
 
 ## Portfólio
-- [Portifólio](https://github.com/DKTDW?tab=repositories)
+- [Portifólio](https://github.com/DKTDW)
 
 ---
 
