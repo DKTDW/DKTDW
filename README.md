@@ -20,7 +20,7 @@
 
 <div>
   <a href="https://github.com/DKTDW">
-  <img height= "380cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKTDW&theme=blue-green" />
+  <img height= "250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKTDW&theme=blue-green" />
 </div>
 
 ### Soft Skills
