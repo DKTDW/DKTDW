@@ -33,7 +33,7 @@
 ---
 
 ## Portfólio
-- [Portifólio]([https://github.com/DKTDW?tab=repositories])
+- [Portifólio]([https://github.com/DKTDW?tab=repositories))
 
 ---
 
