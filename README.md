@@ -48,11 +48,11 @@
 **2024 - Atual**  
 Atualmente, sou responsável por desenvolver e implementar soluções de automação de processos robóticos, otimizando operações e aumentando a eficiência no atendimento ao cliente.
 
-### Control Desk | DIO
+### Control Desk | ACOSTA CONTACT CENTER
 **Maio/2024 - Julho/2024**  
 No cargo de Control Desk, gerenciei e resolvi incidentes e solicitações de serviço, garantindo a continuidade das operações e a satisfação dos usuários através de um suporte eficaz e proativo.
 
-### Help Desk | Brain Machine
+### Help Desk | ACOSTA CONTACT CENTER
 **Maio/2024 - Julho/2024**  
 Como parte da equipe de Help Desk, forneci suporte técnico a clientes e colaboradores, resolvendo problemas de TI e contribuindo para a melhoria da experiência do usuário por meio de soluções rápidas e eficientes.
 
