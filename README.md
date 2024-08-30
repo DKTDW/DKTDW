@@ -20,7 +20,7 @@
 
 <div>
     <a href="https://github.com/DKTDW">
-    <img height= "180cm" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 </div>
 
 ### Soft Skills
