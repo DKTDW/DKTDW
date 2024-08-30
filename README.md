@@ -1,5 +1,7 @@
 # Olá, eu sou Dérick Henrique
 
+![Minha Foto](sua-foto.jpg)
+
 ### RPA Developer  
 - [Localização📍] São Paulo  
 - [Celular 📞] (11) 95416-0412
@@ -35,7 +37,7 @@
 ---
 
 ## Portfólio
-- [Portifólio](https://github.com/DKTDW)
+- [Portifólio](https://github.com/DKTDW?tab=repositories)
 
 ---
 
