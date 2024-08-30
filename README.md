@@ -16,11 +16,12 @@
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-  <img align="center" alt="graf" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://github-readme-      stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
-
+<div>
+    <a href="https://github.com/DKTDW">
+    <img height= "180cm" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
 
 ### Soft Skills
 - Empatia
@@ -44,7 +45,7 @@
 ## Experiência Profissional
 
 ### RPA Dev | ACOSTA CONTACT CENTER
-**2024 (Atual)**  
+**2024 - Atual**  
 Atualmente, sou responsável por desenvolver e implementar soluções de automação de processos robóticos, otimizando operações e aumentando a eficiência no atendimento ao cliente.
 
 ### Control Desk | DIO
