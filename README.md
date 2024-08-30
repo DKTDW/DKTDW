@@ -1,5 +1,7 @@
 # Olá, eu sou Dérick Henrique
 
+![Minha Foto](sua-foto.jpg)
+
 ### RPA Developer  
 📍 Diadema - SP  
 📞 (11) 95416-0412
@@ -33,7 +35,7 @@
 ---
 
 ## Portfólio
-- [Portifólio]([https://github.com/DKTDW?tab=repositories))
+- [Portifólio](https://github.com/DKTDW?tab=repositories)
 
 ---
 
