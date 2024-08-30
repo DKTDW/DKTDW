@@ -42,7 +42,7 @@
 ## Experiência Profissional
 
 ### RPA Dev | ACOSTA CONTACT CENTER
-**2024 - Atual**  
+**2024 (Atual)**  
 Atualmente, sou responsável por desenvolver e implementar soluções de automação de processos robóticos, otimizando operações e aumentando a eficiência no atendimento ao cliente.
 
 ### Control Desk | DIO
