@@ -33,7 +33,7 @@
 
 ## Idiomas
 - **Português BR** 
-- **Inglês** (intermediário)
+- **Inglês** (Básico)
 
 ---
 
